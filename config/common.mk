@@ -146,7 +146,8 @@ PRODUCT_PACKAGES += \
 # Core exTHmUI packages
 PRODUCT_PACKAGES += \
     Longshot \
-    ThemeManager
+    ThemeManager \
+    Updater
 
 # Custom exTHmUI packages
 PRODUCT_PACKAGES += \
